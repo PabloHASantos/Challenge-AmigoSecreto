@@ -5,5 +5,5 @@
 ![Badge linguagem](https://img.shields.io/badge/CSS-0f5298)
 ![Badge linguagem](https://img.shields.io/badge/JavaScript-F0DB4F)
 
-<h2>**Descrição do projeto**</h2>
+<h2>Descrição do projeto</h2>
 <p>A intenção do projeto é fazer um jogo que vai adicionar os amigos a uma lista e dentre eles sortear um, através do uso de HTML, CSS e JavaScript</p>
